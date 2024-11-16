@@ -10,12 +10,12 @@
 }
 
 :root{
-    --bs-dark-color: #1a1d20;
-    --bs-dark-primary:#1c1c1c;
-    --bs-main-color:#fff;
-    --bs-primary-color:#c6c6c6;
-    --secondary-color: #29a9fd;
-    --bs-supporting-color: #C850C0;
+    --bs-dark-color: rgba(0, 51, 102, 1);
+    --bs-dark-primary: rgba(0, 51, 102, 0.8);
+    --bs-main-color: rgba(1, 50, 67, 1);
+    --bs-primary-color:white;
+    --secondary-color: rgba(1, 50, 67);
+    --bs-supporting-color: #d3c3d2;
 }
 
 h1, h2,h3,h4,h5{
